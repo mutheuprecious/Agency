@@ -1,0 +1,81 @@
+/* General Styles */
+.home-container {
+  background-color: #f8f9fa;
+}
+
+/* Hero Section */
+.hero-section {
+  background: linear-gradient(to right, #007bff, #6c757d);
+  color: white;
+  padding: 60px 0;
+}
+
+.hero-title {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.hero-subtitle {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+/* Features Section */
+.features-section {
+  background-color: #ffffff;
+}
+
+.feature-item {
+  margin-bottom: 30px;
+}
+
+.feature-icon {
+  font-size: 2.5rem;
+  color: #007bff;
+}
+
+.feature-title {
+  font-size: 1.2rem;
+  margin-top: 15px;
+}
+
+.feature-description {
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+/* Testimonials Section */
+.testimonials-section {
+  background-color: #e3f2fd;
+}
+
+.testimonial-card {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+/* CTA Section */
+.cta-section {
+  background: linear-gradient(to right, #6c757d, #007bff);
+  color: white;
+  padding: 60px 0;
+}
+
+.cta-section h3 {
+  font-size: 1.8rem;
+}
+
+.cta-section p {
+  font-size: 1.2rem;
+}
+
+.cta-section button {
+  background-color: #ffffff;
+  color: #007bff;
+  border: none;
+}
+
+.cta-section button:hover {
+  background-color: #e3f2fd;
+  color: #0056b3;
+}

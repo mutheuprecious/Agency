@@ -1,0 +1,14 @@
+/* User Table */
+.table-hover tbody tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  /* Modal Styling */
+  .modal-header {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .modal-title {
+    font-weight: bold;
+  }

@@ -1,0 +1,42 @@
+/* Dashboard Container */
+.dashboard-container {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  /* Dashboard Title */
+  .dashboard-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #343a40;
+  }
+  
+  .dashboard-subtitle {
+    font-size: 1.2rem;
+    color: #6c757d;
+  }
+  
+  /* Cards */
+  .dashboard-card {
+    background-color: #ffffff;
+    border: none;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .dashboard-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .dashboard-card-value {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  /* Call-to-Action Button */
+  .dashboard-cta-btn {
+    font-size: 1.2rem;
+    padding: 10px 25px;
+  }
